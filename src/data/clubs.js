@@ -2,7 +2,7 @@ export const clubs = [
     {
         id: 'robotics',
         name: 'Robotics Club',
-        image: '/images/robotics.jpg',
+        image: '/robotic.jpg',
         shortDescription: 'Build and code robots with fellow enthusiasts.',
         description: 'Learn about robotics, compete in competitions, and join hands-on workshops every month!',
         events: [
@@ -13,7 +13,7 @@ export const clubs = [
     {
         id: 'music',
         name: 'Music Club',
-        image: '/images/music.jpg',
+        image: '/music.jpg',
         shortDescription: 'Jam and perform with student musicians.',
         description: 'Weekly jam sessions and annual concerts for all genres.',
         events: [
@@ -24,7 +24,7 @@ export const clubs = [
     {
         id: 'art',
         name: 'Art Society',
-        image: '/images/art.jpg',
+        image: '/art.jpg',
         shortDescription: 'Paint, draw, and exhibit your creativity.',
         description: 'We host art exhibitions, workshops, and trips to galleries.',
         events: [
@@ -35,7 +35,7 @@ export const clubs = [
     {
         id: 'literature',
         name: 'Literature Club',
-        image: '/images/literature.jpg',
+        image: '/literature.jpg',
         shortDescription: 'Dive into books and discuss ideas.',
         description: 'Book discussions, author sessions, and creative writing contests.',
         events: [
@@ -46,7 +46,7 @@ export const clubs = [
     {
         id: 'sports',
         name: 'Sports Club',
-        image: '/images/sports.jpg',
+        image: '/sports.jpg',
         shortDescription: 'Stay active with regular sports events.',
         description: 'Join regular games, tournaments, and fitness bootcamps.',
         events: [
